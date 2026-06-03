@@ -1,8 +1,8 @@
-#Sistema de Clínica Médica
+# Sistema de Clínica Médica
   Projeto backend desenvolvido com Node.js,
   Prisma ORM e MySQL/MariaDB
 
-##Funcionadlidades
+## Funcionadlidades
   - Cadastro de usuários
   - Castro de pacientes
   - Cdastro de especialidade
@@ -11,7 +11,7 @@
   - Cancelamento de consultas
   - Finalização de consultas
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
   - Node.js
   - Express
   - Prisma ORM
